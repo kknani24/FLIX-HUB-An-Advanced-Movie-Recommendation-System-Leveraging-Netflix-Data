@@ -46,7 +46,7 @@ To run this project, you need to have Python installed on your system. Then, fol
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Recommendation-System .git
+   [git clone https://github.com/yourusername/Recommendation-System .git]
    ```
 
 2. Navigate to the project directory:
